@@ -126,6 +126,8 @@ git rebase ➤ *merge edilen commitler arasındaki merge commit loglarını temi
 
 **git push bu komutlardan sonra direkt commitleri pushlamaya yarar**	
 
+git push origin <branch_ismi> ➤ **seçilen branchteki commitleri pushlamaya yarar**
+
 
 
 
