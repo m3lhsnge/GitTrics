@@ -129,6 +129,9 @@ git rebase ➤ *merge edilen commitler arasındaki merge commit loglarını temi
 git push origin <branch_ismi> ➤ **seçilen branchteki commitleri pushlamaya yarar**
 
 
+git clone <repo_link>➤ *public repoları locale 'e kopyalamayı sağlar*
+
+
 
 
 
